@@ -1,0 +1,13 @@
+[package]
+name = "monte-carlo-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Monte Carlo methods: uniform sampling, importance sampling, rejection sampling, MC integration, variance reduction"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/monte-carlo-rs"
+keywords = ["monte-carlo", "sampling", "integration", "importance-sampling", "statistics"]
+categories = ["science", "mathematics", "algorithms"]
+readme = "README.md"
+authors = ["SuperInstance"]
+
+[dependencies]
